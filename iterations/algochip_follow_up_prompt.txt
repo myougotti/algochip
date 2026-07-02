@@ -1,0 +1,5 @@
+Add a const ALGORITHMS array inside the component with these 25 entries. Each row is { name, category, best, average, worst, space, notes }. 
+Categories: Sort, Search, Graph, Tree, Hash, Heap, String. 
+Cover at minimum: bubble, insertion, selection, merge, quick, heap, counting, radix sort; linear, binary search; BFS, DFS, Dijkstra, Bellman-Ford, A*; BST insert, AVL insert, hash get/set/delete, heap push/pop, KMP, Rabin-Karp, LCS DP, knapsack 0/1.
+
+Render every row in the table. Numbers in Big-O notation as plain text like O(n log n).

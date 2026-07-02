@@ -1,0 +1,8 @@
+Build a single-file React artifact called AlgoChip.
+
+Layout: header with title "AlgoChip" and a dark mode toggle, then a search input, then a sortable table with columns name, category, best, average, worst, space, notes. Below a horizontal rule, a Race panel with two algorithm picker dropdowns(only sort algorithms), a Run button, twin canvases that animate the sort, and a step counter under each canvas. 
+
+Use Tailwind utility classes only. Use only React + hooks. No extra libraries. Default export a component called AlgoChip. 
+
+For now, render the header, search input, and an empty table with the column headers. Stub the race section with placeholders. Do not fill the data yet.
+

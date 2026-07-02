@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg">
+      <rect x="20" y="20" width="680" height="40" fill="#0F2A44" />
+      <text x="40" y="46" font-family="Helvetica" font-size="14" fill="#fff" font-weight="700">AlgoChip</text>
+      <text x="200" y="46" font-family="Helvetica" font-size="10" fill="#C8CFD8">Big-O reference plus sort race</text>
+      <rect x="540" y="30" width="140" height="20" fill="#1F6FEB" rx="3" />
+      <text x="610" y="44" font-family="Helvetica" font-size="10" fill="#fff" text-anchor="middle">[search...]</text>
+      <rect x="20" y="70" width="680" height="100" fill="#F2F4F7" stroke="#C8CFD8" />
+      <text x="40" y="90" font-family="Helvetica" font-size="10" fill="#3B475A" font-weight="700">Algorithm table (25 rows)</text>
+      <text x="40" y="106" font-family="Helvetica" font-size="9" fill="#3B475A">name | category | best | average | worst | space | notes</text>
+      <text x="40" y="120" font-family="Helvetica" font-size="9" fill="#3B475A">click headers to sort, type in search to filter</text>
+      <rect x="20" y="180" width="330" height="80" fill="#fff" stroke="#0F2A44" />
+      <text x="185" y="200" font-family="Helvetica" font-size="10" fill="#0F2A44" font-weight="700" text-anchor="middle">Race: Left algorithm</text>
+      <rect x="40" y="210" width="290" height="40" fill="#F2F4F7" stroke="#C8CFD8" />
+      <text x="185" y="234" font-family="Helvetica" font-size="9" fill="#3B475A" text-anchor="middle">canvas: animated bars + step counter</text>
+      <rect x="370" y="180" width="330" height="80" fill="#fff" stroke="#0F2A44" />
+      <text x="535" y="200" font-family="Helvetica" font-size="10" fill="#0F2A44" font-weight="700" text-anchor="middle">Race: Right algorithm</text>
+      <rect x="390" y="210" width="290" height="40" fill="#F2F4F7" stroke="#C8CFD8" />
+      <text x="535" y="234" font-family="Helvetica" font-size="9" fill="#3B475A" text-anchor="middle">canvas: animated bars + step counter</text>
+    </svg>
