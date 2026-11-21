@@ -1,5 +1,4 @@
-// Verifies the README claims: every generator sorts the seeded array, and
-// replaying the yielded steps through applyStep reproduces each snapshot.
+// Verifies the README claims: every generator sorts the seeded array, and replaying the yielded steps through applyStep reproduces each snapshot.
 // Run with: npm run verify
 import { makeArray, applyStep, SORT_GENERATORS } from "../src/sortSteps.js";
 
